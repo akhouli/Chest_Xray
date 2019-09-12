@@ -7,7 +7,7 @@ Open the notebook using nbviewer online.
 -----------------------------------------
 * Open "https://nbviewer.jupyter.org/"
 
-* Paste: https://github.com/akhouli/Chest_Xray/blob/master/Main_Model_VGG16.ipynb
+* Paste: https://github.com/akhouli/Chest_Xray/blob/master/FNoteBook(K_Fold).ipynb
 
 * Click Go!
 
